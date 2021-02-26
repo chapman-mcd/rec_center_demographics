@@ -5,7 +5,8 @@ A demographic analysis of users of the Recreation Center network in Boulder Colo
 ![](pool.jpg)  
 
 ## Installation/Dependencies:
-```git clone https://github.com/chapman-mcd/rec_center_demographics
+```
+git clone https://github.com/chapman-mcd/rec_center_demographics
 conda create -n rec-center
 conda activate rec-center
 conda install numpy pandas matplotlib seaborn scikit-learn jupyter
