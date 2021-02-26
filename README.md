@@ -5,6 +5,8 @@ A demographic analysis of users of the Recreation Center network in Boulder Colo
 ![](pool.jpg)  
 
 ## Installation/Dependencies:
+
+Assumes use of `conda` - can be replaced with other method for managing virtual environments and packages.
 ```
 git clone https://github.com/chapman-mcd/rec_center_demographics
 conda create -n rec-center
